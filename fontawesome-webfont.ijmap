@@ -1,0 +1,2029 @@
+{
+  "icons" : {
+    "f22d" : {
+      "name" : "genderless"
+    },
+    "f09e" : {
+      "name" : "rss"
+    },
+    "f250" : {
+      "name" : "hourglass-o"
+    },
+    "f0db" : {
+      "name" : "columns"
+    },
+    "f257" : {
+      "name" : "hand-scissors-o"
+    },
+    "f08c" : {
+      "name" : "linkedin-square"
+    },
+    "f256" : {
+      "name" : "hand-stop-o"
+    },
+    "f190" : {
+      "name" : "arrow-circle-o-left"
+    },
+    "f1d7" : {
+      "name" : "weixin"
+    },
+    "f0fc" : {
+      "name" : "beer"
+    },
+    "f227" : {
+      "name" : "mars-double"
+    },
+    "f0e1" : {
+      "name" : "linkedin"
+    },
+    "f1cb" : {
+      "name" : "codepen"
+    },
+    "f1f5" : {
+      "name" : "cc-stripe"
+    },
+    "f276" : {
+      "name" : "map-pin"
+    },
+    "f18e" : {
+      "name" : "arrow-circle-o-right"
+    },
+    "f247" : {
+      "name" : "object-group"
+    },
+    "f29b" : {
+      "name" : "wheelchair-alt"
+    },
+    "f20b" : {
+      "name" : "sheqel"
+    },
+    "f24a" : {
+      "name" : "sticky-note-o"
+    },
+    "f032" : {
+      "name" : "bold"
+    },
+    "f2a5" : {
+      "name" : "glide"
+    },
+    "f0f4" : {
+      "name" : "coffee"
+    },
+    "f0e4" : {
+      "name" : "tachometer"
+    },
+    "f0a7" : {
+      "name" : "hand-o-down"
+    },
+    "f121" : {
+      "name" : "code"
+    },
+    "f058" : {
+      "name" : "check-circle"
+    },
+    "f2da" : {
+      "name" : "eercast"
+    },
+    "f274" : {
+      "name" : "calendar-check-o"
+    },
+    "f19d" : {
+      "name" : "mortar-board"
+    },
+    "f2c2" : {
+      "name" : "id-card"
+    },
+    "f208" : {
+      "name" : "ioxhost"
+    },
+    "f279" : {
+      "name" : "map"
+    },
+    "f1ba" : {
+      "name" : "taxi"
+    },
+    "f1b8" : {
+      "name" : "recycle"
+    },
+    "f162" : {
+      "name" : "sort-numeric-asc"
+    },
+    "f1ce" : {
+      "name" : "circle-o-notch"
+    },
+    "f120" : {
+      "name" : "terminal"
+    },
+    "f09c" : {
+      "name" : "unlock"
+    },
+    "f19e" : {
+      "name" : "yahoo"
+    },
+    "f022" : {
+      "name" : "list-alt"
+    },
+    "f1c8" : {
+      "name" : "file-video-o"
+    },
+    "f0eb" : {
+      "name" : "lightbulb-o"
+    },
+    "f0e2" : {
+      "name" : "undo"
+    },
+    "f02b" : {
+      "name" : "tag"
+    },
+    "f028" : {
+      "name" : "volume-up"
+    },
+    "f21a" : {
+      "name" : "ship"
+    },
+    "f1ac" : {
+      "name" : "fax"
+    },
+    "f1fd" : {
+      "name" : "birthday-cake"
+    },
+    "f016" : {
+      "name" : "file-o"
+    },
+    "f263" : {
+      "name" : "odnoklassniki"
+    },
+    "f077" : {
+      "name" : "chevron-up"
+    },
+    "f1dd" : {
+      "name" : "paragraph"
+    },
+    "f123" : {
+      "name" : "star-half-o"
+    },
+    "f0ee" : {
+      "name" : "cloud-upload"
+    },
+    "f261" : {
+      "name" : "gg-circle"
+    },
+    "f1cd" : {
+      "name" : "support"
+    },
+    "f098" : {
+      "name" : "phone-square"
+    },
+    "f25d" : {
+      "name" : "registered"
+    },
+    "f046" : {
+      "name" : "check-square-o"
+    },
+    "f02e" : {
+      "name" : "bookmark"
+    },
+    "f0d3" : {
+      "name" : "pinterest-square"
+    },
+    "f2b1" : {
+      "name" : "yoast"
+    },
+    "f27c" : {
+      "name" : "houzz"
+    },
+    "f1d6" : {
+      "name" : "qq"
+    },
+    "f216" : {
+      "name" : "skyatlas"
+    },
+    "f1e0" : {
+      "name" : "share-alt"
+    },
+    "f21b" : {
+      "name" : "user-secret"
+    },
+    "f1f2" : {
+      "name" : "cc-discover"
+    },
+    "f0a2" : {
+      "name" : "bell-o"
+    },
+    "f09a" : {
+      "name" : "facebook-f"
+    },
+    "f297" : {
+      "name" : "wpbeginner"
+    },
+    "f152" : {
+      "name" : "toggle-right"
+    },
+    "f150" : {
+      "name" : "toggle-down"
+    },
+    "f031" : {
+      "name" : "font"
+    },
+    "f24b" : {
+      "name" : "cc-jcb"
+    },
+    "f1a0" : {
+      "name" : "google"
+    },
+    "f196" : {
+      "name" : "plus-square-o"
+    },
+    "f2c7" : {
+      "name" : "thermometer-full"
+    },
+    "f1b7" : {
+      "name" : "steam-square"
+    },
+    "f2d3" : {
+      "name" : "window-close"
+    },
+    "f027" : {
+      "name" : "volume-down"
+    },
+    "f277" : {
+      "name" : "map-signs"
+    },
+    "f1a7" : {
+      "name" : "pied-piper-pp"
+    },
+    "f146" : {
+      "name" : "minus-square"
+    },
+    "f0a9" : {
+      "name" : "arrow-circle-right"
+    },
+    "f0d7" : {
+      "name" : "caret-down"
+    },
+    "f210" : {
+      "name" : "dashcube"
+    },
+    "f197" : {
+      "name" : "space-shuttle"
+    },
+    "f286" : {
+      "name" : "fort-awesome"
+    },
+    "f235" : {
+      "name" : "user-times"
+    },
+    "f059" : {
+      "name" : "question-circle"
+    },
+    "f008" : {
+      "name" : "film"
+    },
+    "f124" : {
+      "name" : "location-arrow"
+    },
+    "f131" : {
+      "name" : "microphone-slash"
+    },
+    "f0cb" : {
+      "name" : "list-ol"
+    },
+    "f097" : {
+      "name" : "bookmark-o"
+    },
+    "f217" : {
+      "name" : "cart-plus"
+    },
+    "f04c" : {
+      "name" : "pause"
+    },
+    "f067" : {
+      "name" : "plus"
+    },
+    "f29c" : {
+      "name" : "question-circle-o"
+    },
+    "f232" : {
+      "name" : "whatsapp"
+    },
+    "f2aa" : {
+      "name" : "viadeo-square"
+    },
+    "f299" : {
+      "name" : "envira"
+    },
+    "f1e7" : {
+      "name" : "slideshare"
+    },
+    "f080" : {
+      "name" : "bar-chart-o"
+    },
+    "f284" : {
+      "name" : "codiepie"
+    },
+    "f03a" : {
+      "name" : "list"
+    },
+    "f1e2" : {
+      "name" : "bomb"
+    },
+    "f25b" : {
+      "name" : "hand-peace-o"
+    },
+    "f233" : {
+      "name" : "server"
+    },
+    "f007" : {
+      "name" : "user"
+    },
+    "f2a4" : {
+      "name" : "hard-of-hearing"
+    },
+    "f055" : {
+      "name" : "plus-circle"
+    },
+    "f126" : {
+      "name" : "code-fork"
+    },
+    "f034" : {
+      "name" : "text-height"
+    },
+    "f27b" : {
+      "name" : "commenting-o"
+    },
+    "f021" : {
+      "name" : "refresh"
+    },
+    "f18d" : {
+      "name" : "stack-exchange"
+    },
+    "f0c9" : {
+      "name" : "reorder"
+    },
+    "f2b9" : {
+      "name" : "address-book"
+    },
+    "f10c" : {
+      "name" : "circle-o"
+    },
+    "f0f5" : {
+      "name" : "cutlery"
+    },
+    "f0a8" : {
+      "name" : "arrow-circle-left"
+    },
+    "f0fa" : {
+      "name" : "medkit"
+    },
+    "f22c" : {
+      "name" : "neuter"
+    },
+    "f298" : {
+      "name" : "wpforms"
+    },
+    "f294" : {
+      "name" : "bluetooth-b"
+    },
+    "f0ab" : {
+      "name" : "arrow-circle-down"
+    },
+    "f2d2" : {
+      "name" : "window-restore"
+    },
+    "f0aa" : {
+      "name" : "arrow-circle-up"
+    },
+    "f1da" : {
+      "name" : "history"
+    },
+    "f255" : {
+      "name" : "hand-rock-o"
+    },
+    "f111" : {
+      "name" : "circle"
+    },
+    "f0ac" : {
+      "name" : "globe"
+    },
+    "f1b3" : {
+      "name" : "cubes"
+    },
+    "f281" : {
+      "name" : "reddit-alien"
+    },
+    "f290" : {
+      "name" : "shopping-bag"
+    },
+    "f2a8" : {
+      "name" : "low-vision"
+    },
+    "f151" : {
+      "name" : "toggle-up"
+    },
+    "f134" : {
+      "name" : "fire-extinguisher"
+    },
+    "f244" : {
+      "name" : "battery-empty"
+    },
+    "f26a" : {
+      "name" : "opera"
+    },
+    "f214" : {
+      "name" : "shirtsinbulk"
+    },
+    "f2c3" : {
+      "name" : "id-card-o"
+    },
+    "f1ab" : {
+      "name" : "language"
+    },
+    "f07b" : {
+      "name" : "folder"
+    },
+    "f073" : {
+      "name" : "calendar"
+    },
+    "f25a" : {
+      "name" : "hand-pointer-o"
+    },
+    "f1ea" : {
+      "name" : "newspaper-o"
+    },
+    "f068" : {
+      "name" : "minus"
+    },
+    "f1a2" : {
+      "name" : "reddit-square"
+    },
+    "f27a" : {
+      "name" : "commenting"
+    },
+    "f2b8" : {
+      "name" : "linode"
+    },
+    "f28a" : {
+      "name" : "scribd"
+    },
+    "f20d" : {
+      "name" : "buysellads"
+    },
+    "f272" : {
+      "name" : "calendar-minus-o"
+    },
+    "f129" : {
+      "name" : "info"
+    },
+    "f248" : {
+      "name" : "object-ungroup"
+    },
+    "f0e9" : {
+      "name" : "umbrella"
+    },
+    "f185" : {
+      "name" : "sun-o"
+    },
+    "f075" : {
+      "name" : "comment"
+    },
+    "f224" : {
+      "name" : "transgender"
+    },
+    "f2cb" : {
+      "name" : "thermometer-empty"
+    },
+    "f199" : {
+      "name" : "envelope-square"
+    },
+    "f076" : {
+      "name" : "magnet"
+    },
+    "f01e" : {
+      "name" : "rotate-right"
+    },
+    "f05e" : {
+      "name" : "ban"
+    },
+    "f00c" : {
+      "name" : "check"
+    },
+    "f019" : {
+      "name" : "download"
+    },
+    "f083" : {
+      "name" : "camera-retro"
+    },
+    "f213" : {
+      "name" : "sellsy"
+    },
+    "f056" : {
+      "name" : "minus-circle"
+    },
+    "f2a2" : {
+      "name" : "assistive-listening-systems"
+    },
+    "f1b2" : {
+      "name" : "cube"
+    },
+    "f15d" : {
+      "name" : "sort-alpha-asc"
+    },
+    "f1a4" : {
+      "name" : "stumbleupon"
+    },
+    "f0c0" : {
+      "name" : "users"
+    },
+    "f1e4" : {
+      "name" : "tty"
+    },
+    "f2c0" : {
+      "name" : "user-o"
+    },
+    "f2d1" : {
+      "name" : "window-minimize"
+    },
+    "f0ad" : {
+      "name" : "wrench"
+    },
+    "f074" : {
+      "name" : "random"
+    },
+    "f0f3" : {
+      "name" : "bell"
+    },
+    "f2b7" : {
+      "name" : "envelope-open-o"
+    },
+    "f0a1" : {
+      "name" : "bullhorn"
+    },
+    "f189" : {
+      "name" : "vk"
+    },
+    "f16b" : {
+      "name" : "dropbox"
+    },
+    "f043" : {
+      "name" : "tint"
+    },
+    "f283" : {
+      "name" : "credit-card-alt"
+    },
+    "f08e" : {
+      "name" : "external-link"
+    },
+    "f082" : {
+      "name" : "facebook-square"
+    },
+    "f259" : {
+      "name" : "hand-spock-o"
+    },
+    "f1c1" : {
+      "name" : "file-pdf-o"
+    },
+    "f19c" : {
+      "name" : "university"
+    },
+    "f112" : {
+      "name" : "reply"
+    },
+    "f10a" : {
+      "name" : "tablet"
+    },
+    "f230" : {
+      "name" : "facebook-official"
+    },
+    "f03c" : {
+      "name" : "indent"
+    },
+    "f287" : {
+      "name" : "usb"
+    },
+    "f0c8" : {
+      "name" : "square"
+    },
+    "f2d4" : {
+      "name" : "window-close-o"
+    },
+    "f029" : {
+      "name" : "qrcode"
+    },
+    "f238" : {
+      "name" : "train"
+    },
+    "f1d3" : {
+      "name" : "git"
+    },
+    "f10d" : {
+      "name" : "quote-left"
+    },
+    "f093" : {
+      "name" : "upload"
+    },
+    "f107" : {
+      "name" : "angle-down"
+    },
+    "f179" : {
+      "name" : "apple"
+    },
+    "f1b5" : {
+      "name" : "behance-square"
+    },
+    "f0c5" : {
+      "name" : "files-o"
+    },
+    "f13a" : {
+      "name" : "chevron-circle-down"
+    },
+    "f23a" : {
+      "name" : "medium"
+    },
+    "f145" : {
+      "name" : "ticket"
+    },
+    "f02d" : {
+      "name" : "book"
+    },
+    "f026" : {
+      "name" : "volume-off"
+    },
+    "f14c" : {
+      "name" : "external-link-square"
+    },
+    "f039" : {
+      "name" : "align-justify"
+    },
+    "f1a9" : {
+      "name" : "drupal"
+    },
+    "f07e" : {
+      "name" : "arrows-h"
+    },
+    "f252" : {
+      "name" : "hourglass-half"
+    },
+    "f245" : {
+      "name" : "mouse-pointer"
+    },
+    "f01a" : {
+      "name" : "arrow-circle-o-down"
+    },
+    "f154" : {
+      "name" : "gbp"
+    },
+    "f135" : {
+      "name" : "rocket"
+    },
+    "f14d" : {
+      "name" : "share-square"
+    },
+    "f0de" : {
+      "name" : "sort-up"
+    },
+    "f2c6" : {
+      "name" : "telegram"
+    },
+    "f1eb" : {
+      "name" : "wifi"
+    },
+    "f147" : {
+      "name" : "minus-square-o"
+    },
+    "f0ec" : {
+      "name" : "exchange"
+    },
+    "f100" : {
+      "name" : "angle-double-left"
+    },
+    "f291" : {
+      "name" : "shopping-basket"
+    },
+    "f064" : {
+      "name" : "share"
+    },
+    "f023" : {
+      "name" : "lock"
+    },
+    "f051" : {
+      "name" : "step-forward"
+    },
+    "f12d" : {
+      "name" : "eraser"
+    },
+    "f25c" : {
+      "name" : "trademark"
+    },
+    "f0f7" : {
+      "name" : "building-o"
+    },
+    "f2ca" : {
+      "name" : "thermometer-quarter"
+    },
+    "f20c" : {
+      "name" : "meanpath"
+    },
+    "f2db" : {
+      "name" : "microchip"
+    },
+    "f1c3" : {
+      "name" : "file-excel-o"
+    },
+    "f1b9" : {
+      "name" : "car"
+    },
+    "f1e3" : {
+      "name" : "soccer-ball-o"
+    },
+    "f1e5" : {
+      "name" : "binoculars"
+    },
+    "f23b" : {
+      "name" : "yc"
+    },
+    "f1fa" : {
+      "name" : "at"
+    },
+    "f01c" : {
+      "name" : "inbox"
+    },
+    "f02f" : {
+      "name" : "print"
+    },
+    "f089" : {
+      "name" : "star-half"
+    },
+    "f113" : {
+      "name" : "github-alt"
+    },
+    "f065" : {
+      "name" : "expand"
+    },
+    "f0b1" : {
+      "name" : "briefcase"
+    },
+    "f17e" : {
+      "name" : "skype"
+    },
+    "f16e" : {
+      "name" : "flickr"
+    },
+    "f1be" : {
+      "name" : "soundcloud"
+    },
+    "f015" : {
+      "name" : "home"
+    },
+    "f193" : {
+      "name" : "wheelchair"
+    },
+    "f1fc" : {
+      "name" : "paint-brush"
+    },
+    "f2d5" : {
+      "name" : "bandcamp"
+    },
+    "f030" : {
+      "name" : "camera"
+    },
+    "f04d" : {
+      "name" : "stop"
+    },
+    "f047" : {
+      "name" : "arrows"
+    },
+    "f0c3" : {
+      "name" : "flask"
+    },
+    "f127" : {
+      "name" : "unlink"
+    },
+    "f1de" : {
+      "name" : "sliders"
+    },
+    "f26c" : {
+      "name" : "tv"
+    },
+    "f06a" : {
+      "name" : "exclamation-circle"
+    },
+    "f2c9" : {
+      "name" : "thermometer-half"
+    },
+    "f138" : {
+      "name" : "chevron-circle-right"
+    },
+    "f1ae" : {
+      "name" : "child"
+    },
+    "f1f9" : {
+      "name" : "copyright"
+    },
+    "f177" : {
+      "name" : "long-arrow-left"
+    },
+    "f0d6" : {
+      "name" : "money"
+    },
+    "f153" : {
+      "name" : "euro"
+    },
+    "f06e" : {
+      "name" : "eye"
+    },
+    "f07a" : {
+      "name" : "shopping-cart"
+    },
+    "f099" : {
+      "name" : "twitter"
+    },
+    "f1a5" : {
+      "name" : "delicious"
+    },
+    "f243" : {
+      "name" : "battery-quarter"
+    },
+    "f29d" : {
+      "name" : "blind"
+    },
+    "f27e" : {
+      "name" : "black-tie"
+    },
+    "f1c4" : {
+      "name" : "file-powerpoint-o"
+    },
+    "f253" : {
+      "name" : "hourglass-end"
+    },
+    "f118" : {
+      "name" : "smile-o"
+    },
+    "f2be" : {
+      "name" : "user-circle-o"
+    },
+    "f0c2" : {
+      "name" : "cloud"
+    },
+    "f2a7" : {
+      "name" : "signing"
+    },
+    "f24e" : {
+      "name" : "balance-scale"
+    },
+    "f086" : {
+      "name" : "comments"
+    },
+    "f115" : {
+      "name" : "folder-open-o"
+    },
+    "f1e9" : {
+      "name" : "yelp"
+    },
+    "f188" : {
+      "name" : "bug"
+    },
+    "f15a" : {
+      "name" : "btc"
+    },
+    "f2d8" : {
+      "name" : "imdb"
+    },
+    "f12c" : {
+      "name" : "subscript"
+    },
+    "f2c5" : {
+      "name" : "free-code-camp"
+    },
+    "f2ad" : {
+      "name" : "snapchat-square"
+    },
+    "f04b" : {
+      "name" : "play"
+    },
+    "f187" : {
+      "name" : "archive"
+    },
+    "f28b" : {
+      "name" : "pause-circle"
+    },
+    "f21d" : {
+      "name" : "street-view"
+    },
+    "f1ed" : {
+      "name" : "paypal"
+    },
+    "f0da" : {
+      "name" : "caret-right"
+    },
+    "f223" : {
+      "name" : "mercury"
+    },
+    "f0ce" : {
+      "name" : "table"
+    },
+    "f273" : {
+      "name" : "calendar-times-o"
+    },
+    "f0a5" : {
+      "name" : "hand-o-left"
+    },
+    "f009" : {
+      "name" : "th-large"
+    },
+    "f2b0" : {
+      "name" : "first-order"
+    },
+    "f081" : {
+      "name" : "twitter-square"
+    },
+    "f170" : {
+      "name" : "adn"
+    },
+    "f063" : {
+      "name" : "arrow-down"
+    },
+    "f2ba" : {
+      "name" : "address-book-o"
+    },
+    "f24d" : {
+      "name" : "clone"
+    },
+    "f149" : {
+      "name" : "level-down"
+    },
+    "f130" : {
+      "name" : "microphone"
+    },
+    "f128" : {
+      "name" : "question"
+    },
+    "f143" : {
+      "name" : "rss-square"
+    },
+    "f2dc" : {
+      "name" : "snowflake-o"
+    },
+    "f161" : {
+      "name" : "sort-amount-desc"
+    },
+    "f005" : {
+      "name" : "star"
+    },
+    "f28c" : {
+      "name" : "pause-circle-o"
+    },
+    "f2b2" : {
+      "name" : "themeisle"
+    },
+    "f157" : {
+      "name" : "yen"
+    },
+    "f07c" : {
+      "name" : "folder-open"
+    },
+    "f038" : {
+      "name" : "align-right"
+    },
+    "f066" : {
+      "name" : "compress"
+    },
+    "f0cd" : {
+      "name" : "underline"
+    },
+    "f0fe" : {
+      "name" : "plus-square"
+    },
+    "f104" : {
+      "name" : "angle-left"
+    },
+    "f236" : {
+      "name" : "hotel"
+    },
+    "f078" : {
+      "name" : "chevron-down"
+    },
+    "f071" : {
+      "name" : "warning"
+    },
+    "f160" : {
+      "name" : "sort-amount-asc"
+    },
+    "f270" : {
+      "name" : "amazon"
+    },
+    "f1b1" : {
+      "name" : "spoon"
+    },
+    "f0e7" : {
+      "name" : "flash"
+    },
+    "f27d" : {
+      "name" : "vimeo"
+    },
+    "f0a3" : {
+      "name" : "certificate"
+    },
+    "f265" : {
+      "name" : "get-pocket"
+    },
+    "f0c6" : {
+      "name" : "paperclip"
+    },
+    "f096" : {
+      "name" : "square-o"
+    },
+    "f203" : {
+      "name" : "lastfm-square"
+    },
+    "f0f2" : {
+      "name" : "suitcase"
+    },
+    "f03e" : {
+      "name" : "picture-o"
+    },
+    "f180" : {
+      "name" : "foursquare"
+    },
+    "f1d8" : {
+      "name" : "send"
+    },
+    "f267" : {
+      "name" : "safari"
+    },
+    "f057" : {
+      "name" : "times-circle"
+    },
+    "f05a" : {
+      "name" : "info-circle"
+    },
+    "f1fe" : {
+      "name" : "area-chart"
+    },
+    "f006" : {
+      "name" : "star-o"
+    },
+    "f122" : {
+      "name" : "reply-all"
+    },
+    "f0f9" : {
+      "name" : "ambulance"
+    },
+    "f182" : {
+      "name" : "female"
+    },
+    "f0cc" : {
+      "name" : "strikethrough"
+    },
+    "f00d" : {
+      "name" : "times"
+    },
+    "f15b" : {
+      "name" : "file"
+    },
+    "f0ae" : {
+      "name" : "tasks"
+    },
+    "f092" : {
+      "name" : "github-square"
+    },
+    "f289" : {
+      "name" : "mixcloud"
+    },
+    "f264" : {
+      "name" : "odnoklassniki-square"
+    },
+    "f0d2" : {
+      "name" : "pinterest"
+    },
+    "f2ac" : {
+      "name" : "snapchat-ghost"
+    },
+    "f0d1" : {
+      "name" : "truck"
+    },
+    "f221" : {
+      "name" : "venus"
+    },
+    "f1bd" : {
+      "name" : "deviantart"
+    },
+    "f156" : {
+      "name" : "rupee"
+    },
+    "f114" : {
+      "name" : "folder-o"
+    },
+    "f1c6" : {
+      "name" : "file-zip-o"
+    },
+    "f144" : {
+      "name" : "play-circle"
+    },
+    "f2ce" : {
+      "name" : "podcast"
+    },
+    "f00a" : {
+      "name" : "th"
+    },
+    "f1c5" : {
+      "name" : "file-picture-o"
+    },
+    "f0d0" : {
+      "name" : "magic"
+    },
+    "f004" : {
+      "name" : "heart"
+    },
+    "f072" : {
+      "name" : "plane"
+    },
+    "f22b" : {
+      "name" : "mars-stroke-h"
+    },
+    "f095" : {
+      "name" : "phone"
+    },
+    "f0c7" : {
+      "name" : "save"
+    },
+    "f215" : {
+      "name" : "simplybuilt"
+    },
+    "f280" : {
+      "name" : "fonticons"
+    },
+    "f08d" : {
+      "name" : "thumb-tack"
+    },
+    "f228" : {
+      "name" : "venus-mars"
+    },
+    "f222" : {
+      "name" : "mars"
+    },
+    "f042" : {
+      "name" : "adjust"
+    },
+    "f218" : {
+      "name" : "cart-arrow-down"
+    },
+    "f258" : {
+      "name" : "hand-lizard-o"
+    },
+    "f1b0" : {
+      "name" : "paw"
+    },
+    "f225" : {
+      "name" : "transgender-alt"
+    },
+    "f241" : {
+      "name" : "battery-three-quarters"
+    },
+    "f1e6" : {
+      "name" : "plug"
+    },
+    "f23c" : {
+      "name" : "optin-monster"
+    },
+    "f069" : {
+      "name" : "asterisk"
+    },
+    "f14b" : {
+      "name" : "pencil-square"
+    },
+    "f2ae" : {
+      "name" : "pied-piper"
+    },
+    "f1a3" : {
+      "name" : "stumbleupon-circle"
+    },
+    "f194" : {
+      "name" : "vimeo-square"
+    },
+    "f09b" : {
+      "name" : "github"
+    },
+    "f094" : {
+      "name" : "lemon-o"
+    },
+    "f29a" : {
+      "name" : "universal-access"
+    },
+    "f1bc" : {
+      "name" : "spotify"
+    },
+    "f002" : {
+      "name" : "search"
+    },
+    "f158" : {
+      "name" : "ruble"
+    },
+    "f044" : {
+      "name" : "pencil-square-o"
+    },
+    "f102" : {
+      "name" : "angle-double-up"
+    },
+    "f0e5" : {
+      "name" : "comment-o"
+    },
+    "f05b" : {
+      "name" : "crosshairs"
+    },
+    "f012" : {
+      "name" : "signal"
+    },
+    "f18a" : {
+      "name" : "weibo"
+    },
+    "f037" : {
+      "name" : "align-center"
+    },
+    "f14a" : {
+      "name" : "check-square"
+    },
+    "f1a6" : {
+      "name" : "digg"
+    },
+    "f269" : {
+      "name" : "firefox"
+    },
+    "f24c" : {
+      "name" : "cc-diners-club"
+    },
+    "f18c" : {
+      "name" : "pagelines"
+    },
+    "f17a" : {
+      "name" : "windows"
+    },
+    "f108" : {
+      "name" : "desktop"
+    },
+    "f195" : {
+      "name" : "turkish-lira"
+    },
+    "f13d" : {
+      "name" : "anchor"
+    },
+    "f1c0" : {
+      "name" : "database"
+    },
+    "f285" : {
+      "name" : "modx"
+    },
+    "f1a8" : {
+      "name" : "pied-piper-alt"
+    },
+    "f017" : {
+      "name" : "clock-o"
+    },
+    "f106" : {
+      "name" : "angle-up"
+    },
+    "f2d9" : {
+      "name" : "ravelry"
+    },
+    "f1d1" : {
+      "name" : "ge"
+    },
+    "f085" : {
+      "name" : "gears"
+    },
+    "f260" : {
+      "name" : "gg"
+    },
+    "f18b" : {
+      "name" : "renren"
+    },
+    "f175" : {
+      "name" : "long-arrow-down"
+    },
+    "f0d9" : {
+      "name" : "caret-left"
+    },
+    "f191" : {
+      "name" : "toggle-left"
+    },
+    "f1dc" : {
+      "name" : "header"
+    },
+    "f01d" : {
+      "name" : "play-circle-o"
+    },
+    "f28e" : {
+      "name" : "stop-circle-o"
+    },
+    "f171" : {
+      "name" : "bitbucket"
+    },
+    "f024" : {
+      "name" : "flag"
+    },
+    "f00b" : {
+      "name" : "th-list"
+    },
+    "f282" : {
+      "name" : "edge"
+    },
+    "f1ec" : {
+      "name" : "calculator"
+    },
+    "f1d9" : {
+      "name" : "send-o"
+    },
+    "f0d8" : {
+      "name" : "caret-up"
+    },
+    "f2bc" : {
+      "name" : "vcard-o"
+    },
+    "f0c4" : {
+      "name" : "scissors"
+    },
+    "f293" : {
+      "name" : "bluetooth"
+    },
+    "f013" : {
+      "name" : "gear"
+    },
+    "f109" : {
+      "name" : "laptop"
+    },
+    "f08a" : {
+      "name" : "heart-o"
+    },
+    "f16d" : {
+      "name" : "instagram"
+    },
+    "f035" : {
+      "name" : "text-width"
+    },
+    "f1e1" : {
+      "name" : "share-alt-square"
+    },
+    "f165" : {
+      "name" : "thumbs-down"
+    },
+    "f172" : {
+      "name" : "bitbucket-square"
+    },
+    "f0ea" : {
+      "name" : "paste"
+    },
+    "f251" : {
+      "name" : "hourglass-start"
+    },
+    "f0dd" : {
+      "name" : "sort-down"
+    },
+    "f271" : {
+      "name" : "calendar-plus-o"
+    },
+    "f1f8" : {
+      "name" : "trash"
+    },
+    "f169" : {
+      "name" : "xing-square"
+    },
+    "f036" : {
+      "name" : "align-left"
+    },
+    "f1f6" : {
+      "name" : "bell-slash"
+    },
+    "f110" : {
+      "name" : "spinner"
+    },
+    "f087" : {
+      "name" : "thumbs-o-up"
+    },
+    "f292" : {
+      "name" : "hashtag"
+    },
+    "f2a1" : {
+      "name" : "braille"
+    },
+    "f2a9" : {
+      "name" : "viadeo"
+    },
+    "f091" : {
+      "name" : "trophy"
+    },
+    "f1f7" : {
+      "name" : "bell-slash-o"
+    },
+    "f0f8" : {
+      "name" : "hospital-o"
+    },
+    "f1c2" : {
+      "name" : "file-word-o"
+    },
+    "f26e" : {
+      "name" : "500px"
+    },
+    "f04a" : {
+      "name" : "backward"
+    },
+    "f1cc" : {
+      "name" : "jsfiddle"
+    },
+    "f229" : {
+      "name" : "mars-stroke"
+    },
+    "f239" : {
+      "name" : "subway"
+    },
+    "f181" : {
+      "name" : "trello"
+    },
+    "f186" : {
+      "name" : "moon-o"
+    },
+    "f1c9" : {
+      "name" : "file-code-o"
+    },
+    "f2a6" : {
+      "name" : "glide-g"
+    },
+    "f0ca" : {
+      "name" : "list-ul"
+    },
+    "f136" : {
+      "name" : "maxcdn"
+    },
+    "f173" : {
+      "name" : "tumblr"
+    },
+    "f176" : {
+      "name" : "long-arrow-up"
+    },
+    "f0b0" : {
+      "name" : "filter"
+    },
+    "f1bb" : {
+      "name" : "tree"
+    },
+    "f125" : {
+      "name" : "crop"
+    },
+    "f2de" : {
+      "name" : "wpexplorer"
+    },
+    "f1f3" : {
+      "name" : "cc-amex"
+    },
+    "f275" : {
+      "name" : "industry"
+    },
+    "f061" : {
+      "name" : "arrow-right"
+    },
+    "f018" : {
+      "name" : "road"
+    },
+    "f2d6" : {
+      "name" : "grav"
+    },
+    "f183" : {
+      "name" : "male"
+    },
+    "f1b4" : {
+      "name" : "behance"
+    },
+    "f207" : {
+      "name" : "bus"
+    },
+    "f20e" : {
+      "name" : "connectdevelop"
+    },
+    "f1db" : {
+      "name" : "circle-thin"
+    },
+    "f048" : {
+      "name" : "step-backward"
+    },
+    "f053" : {
+      "name" : "chevron-left"
+    },
+    "f26b" : {
+      "name" : "internet-explorer"
+    },
+    "f0ed" : {
+      "name" : "cloud-download"
+    },
+    "f132" : {
+      "name" : "shield"
+    },
+    "f02c" : {
+      "name" : "tags"
+    },
+    "f17d" : {
+      "name" : "dribbble"
+    },
+    "f23d" : {
+      "name" : "opencart"
+    },
+    "f033" : {
+      "name" : "italic"
+    },
+    "f049" : {
+      "name" : "fast-backward"
+    },
+    "f2c1" : {
+      "name" : "id-badge"
+    },
+    "f29e" : {
+      "name" : "audio-description"
+    },
+    "f08b" : {
+      "name" : "sign-out"
+    },
+    "f163" : {
+      "name" : "sort-numeric-desc"
+    },
+    "f237" : {
+      "name" : "viacoin"
+    },
+    "f234" : {
+      "name" : "user-plus"
+    },
+    "f0a4" : {
+      "name" : "hand-o-right"
+    },
+    "f13e" : {
+      "name" : "unlock-alt"
+    },
+    "f201" : {
+      "name" : "line-chart"
+    },
+    "f06b" : {
+      "name" : "gift"
+    },
+    "f2c4" : {
+      "name" : "quora"
+    },
+    "f13c" : {
+      "name" : "css3"
+    },
+    "f11b" : {
+      "name" : "gamepad"
+    },
+    "f0e3" : {
+      "name" : "legal"
+    },
+    "f1e8" : {
+      "name" : "twitch"
+    },
+    "f155" : {
+      "name" : "usd"
+    },
+    "f040" : {
+      "name" : "pencil"
+    },
+    "f168" : {
+      "name" : "xing"
+    },
+    "f20a" : {
+      "name" : "cc"
+    },
+    "f0e0" : {
+      "name" : "envelope"
+    },
+    "f062" : {
+      "name" : "arrow-up"
+    },
+    "f060" : {
+      "name" : "arrow-left"
+    },
+    "f014" : {
+      "name" : "trash-o"
+    },
+    "f209" : {
+      "name" : "angellist"
+    },
+    "f103" : {
+      "name" : "angle-double-down"
+    },
+    "f242" : {
+      "name" : "battery-half"
+    },
+    "f03b" : {
+      "name" : "outdent"
+    },
+    "f1d0" : {
+      "name" : "resistance"
+    },
+    "f11e" : {
+      "name" : "flag-checkered"
+    },
+    "f054" : {
+      "name" : "chevron-right"
+    },
+    "f09d" : {
+      "name" : "credit-card"
+    },
+    "f0dc" : {
+      "name" : "unsorted"
+    },
+    "f211" : {
+      "name" : "forumbee"
+    },
+    "f2cd" : {
+      "name" : "s15"
+    },
+    "f1ca" : {
+      "name" : "vine"
+    },
+    "f278" : {
+      "name" : "map-o"
+    },
+    "f003" : {
+      "name" : "envelope-o"
+    },
+    "f11a" : {
+      "name" : "meh-o"
+    },
+    "f15c" : {
+      "name" : "file-text"
+    },
+    "f000" : {
+      "name" : "glass"
+    },
+    "f0d5" : {
+      "name" : "google-plus"
+    },
+    "f2c8" : {
+      "name" : "thermometer-three-quarters"
+    },
+    "f12b" : {
+      "name" : "superscript"
+    },
+    "f06c" : {
+      "name" : "leaf"
+    },
+    "f06d" : {
+      "name" : "fire"
+    },
+    "f262" : {
+      "name" : "tripadvisor"
+    },
+    "f174" : {
+      "name" : "tumblr-square"
+    },
+    "f0e6" : {
+      "name" : "comments-o"
+    },
+    "f231" : {
+      "name" : "pinterest-p"
+    },
+    "f142" : {
+      "name" : "ellipsis-v"
+    },
+    "f2b6" : {
+      "name" : "envelope-open"
+    },
+    "f2b3" : {
+      "name" : "google-plus-official"
+    },
+    "f1ad" : {
+      "name" : "building"
+    },
+    "f0c1" : {
+      "name" : "link"
+    },
+    "f010" : {
+      "name" : "search-minus"
+    },
+    "f219" : {
+      "name" : "diamond"
+    },
+    "f101" : {
+      "name" : "angle-double-right"
+    },
+    "f02a" : {
+      "name" : "barcode"
+    },
+    "f246" : {
+      "name" : "i-cursor"
+    },
+    "f198" : {
+      "name" : "slack"
+    },
+    "f0fd" : {
+      "name" : "h-square"
+    },
+    "f04e" : {
+      "name" : "forward"
+    },
+    "f12e" : {
+      "name" : "puzzle-piece"
+    },
+    "f2ab" : {
+      "name" : "snapchat"
+    },
+    "f088" : {
+      "name" : "thumbs-o-down"
+    },
+    "f204" : {
+      "name" : "toggle-off"
+    },
+    "f05d" : {
+      "name" : "check-circle-o"
+    },
+    "f17c" : {
+      "name" : "linux"
+    },
+    "f050" : {
+      "name" : "fast-forward"
+    },
+    "f07d" : {
+      "name" : "arrows-v"
+    },
+    "f1d4" : {
+      "name" : "yc-square"
+    },
+    "f166" : {
+      "name" : "youtube-square"
+    },
+    "f192" : {
+      "name" : "dot-circle-o"
+    },
+    "f0d4" : {
+      "name" : "google-plus-square"
+    },
+    "f011" : {
+      "name" : "power-off"
+    },
+    "f1b6" : {
+      "name" : "steam"
+    },
+    "f288" : {
+      "name" : "product-hunt"
+    },
+    "f2a0" : {
+      "name" : "volume-control-phone"
+    },
+    "f167" : {
+      "name" : "youtube"
+    },
+    "f0f0" : {
+      "name" : "user-md"
+    },
+    "f025" : {
+      "name" : "headphones"
+    },
+    "f17b" : {
+      "name" : "android"
+    },
+    "f184" : {
+      "name" : "gratipay"
+    },
+    "f001" : {
+      "name" : "music"
+    },
+    "f1f1" : {
+      "name" : "cc-mastercard"
+    },
+    "f0a6" : {
+      "name" : "hand-o-up"
+    },
+    "f0e8" : {
+      "name" : "sitemap"
+    },
+    "f249" : {
+      "name" : "sticky-note"
+    },
+    "f12a" : {
+      "name" : "exclamation"
+    },
+    "f1a1" : {
+      "name" : "reddit"
+    },
+    "f226" : {
+      "name" : "venus-double"
+    },
+    "f266" : {
+      "name" : "wikipedia-w"
+    },
+    "f295" : {
+      "name" : "percent"
+    },
+    "f0f6" : {
+      "name" : "file-text-o"
+    },
+    "f00e" : {
+      "name" : "search-plus"
+    },
+    "f0b2" : {
+      "name" : "arrows-alt"
+    },
+    "f21e" : {
+      "name" : "heartbeat"
+    },
+    "f178" : {
+      "name" : "long-arrow-right"
+    },
+    "f133" : {
+      "name" : "calendar-o"
+    },
+    "f0fb" : {
+      "name" : "fighter-jet"
+    },
+    "f22a" : {
+      "name" : "mars-stroke-v"
+    },
+    "f05c" : {
+      "name" : "times-circle-o"
+    },
+    "f200" : {
+      "name" : "pie-chart"
+    },
+    "f01b" : {
+      "name" : "arrow-circle-o-up"
+    },
+    "f2bb" : {
+      "name" : "vcard"
+    },
+    "f25e" : {
+      "name" : "creative-commons"
+    },
+    "f10e" : {
+      "name" : "quote-right"
+    },
+    "f164" : {
+      "name" : "thumbs-up"
+    },
+    "f254" : {
+      "name" : "hourglass"
+    },
+    "f212" : {
+      "name" : "leanpub"
+    },
+    "f19b" : {
+      "name" : "openid"
+    },
+    "f206" : {
+      "name" : "bicycle"
+    },
+    "f14e" : {
+      "name" : "compass"
+    },
+    "f139" : {
+      "name" : "chevron-circle-up"
+    },
+    "f268" : {
+      "name" : "chrome"
+    },
+    "f16a" : {
+      "name" : "youtube-play"
+    },
+    "f1f0" : {
+      "name" : "cc-visa"
+    },
+    "f052" : {
+      "name" : "eject"
+    },
+    "f26d" : {
+      "name" : "contao"
+    },
+    "f1ee" : {
+      "name" : "google-wallet"
+    },
+    "f090" : {
+      "name" : "sign-in"
+    },
+    "f11d" : {
+      "name" : "flag-o"
+    },
+    "f13b" : {
+      "name" : "html5"
+    },
+    "f296" : {
+      "name" : "gitlab"
+    },
+    "f159" : {
+      "name" : "won"
+    },
+    "f2b5" : {
+      "name" : "handshake-o"
+    },
+    "f045" : {
+      "name" : "share-square-o"
+    },
+    "f15e" : {
+      "name" : "sort-alpha-desc"
+    },
+    "f041" : {
+      "name" : "map-marker"
+    },
+    "f105" : {
+      "name" : "angle-right"
+    },
+    "f1f4" : {
+      "name" : "cc-paypal"
+    },
+    "f0f1" : {
+      "name" : "stethoscope"
+    },
+    "f2b4" : {
+      "name" : "font-awesome"
+    },
+    "f1fb" : {
+      "name" : "eyedropper"
+    },
+    "f16c" : {
+      "name" : "stack-overflow"
+    },
+    "f2e0" : {
+      "name" : "meetup"
+    },
+    "f28d" : {
+      "name" : "stop-circle"
+    },
+    "f2dd" : {
+      "name" : "superpowers"
+    },
+    "f070" : {
+      "name" : "eye-slash"
+    },
+    "f119" : {
+      "name" : "frown-o"
+    },
+    "f240" : {
+      "name" : "battery-full"
+    },
+    "f137" : {
+      "name" : "chevron-circle-left"
+    },
+    "f1d2" : {
+      "name" : "git-square"
+    },
+    "f11c" : {
+      "name" : "keyboard-o"
+    },
+    "f21c" : {
+      "name" : "motorcycle"
+    },
+    "f2bd" : {
+      "name" : "user-circle"
+    },
+    "f2a3" : {
+      "name" : "asl-interpreting"
+    },
+    "f1d5" : {
+      "name" : "tencent-weibo"
+    },
+    "f23e" : {
+      "name" : "expeditedssl"
+    },
+    "f1aa" : {
+      "name" : "joomla"
+    },
+    "f140" : {
+      "name" : "bullseye"
+    },
+    "f10b" : {
+      "name" : "mobile-phone"
+    },
+    "f202" : {
+      "name" : "lastfm"
+    },
+    "f1c7" : {
+      "name" : "file-sound-o"
+    },
+    "f0a0" : {
+      "name" : "hdd-o"
+    },
+    "f2cc" : {
+      "name" : "shower"
+    },
+    "f084" : {
+      "name" : "key"
+    },
+    "f19a" : {
+      "name" : "wordpress"
+    },
+    "f141" : {
+      "name" : "ellipsis-h"
+    },
+    "f079" : {
+      "name" : "retweet"
+    },
+    "f148" : {
+      "name" : "level-up"
+    },
+    "f205" : {
+      "name" : "toggle-on"
+    },
+    "f03d" : {
+      "name" : "video-camera"
+    },
+    "f2d0" : {
+      "name" : "window-maximize"
+    },
+    "f2d7" : {
+      "name" : "etsy"
+    }
+  }
+}
